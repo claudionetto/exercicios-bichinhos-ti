@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ex_classes_interfaces/ex_classes_interfaces.iml" filepath="$PROJECT_DIR$/ex_classes_interfaces/ex_classes_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" filepath="$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-bichinhos-ti.iml" filepath="$PROJECT_DIR$/.idea/exercicios-bichinhos-ti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca_polimorfismo/heranca_polimorfismo.iml" filepath="$PROJECT_DIR$/heranca_polimorfismo/heranca_polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica_algoritmo/logica_algoritmo.iml" filepath="$PROJECT_DIR$/logica_algoritmo/logica_algoritmo.iml" />
+    </modules>
+  </component>
+</project>
