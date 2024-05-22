@@ -5,28 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c49230d-9fd4-4a2c-b81c-67abbda96874" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/exercicios-bichinhos-ti.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_classes_interfaces/ex_classes_interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_classes_interfaces/exerciciosBichinhos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio_listas/exerciciosBichinhos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heranca_polimorfismo/exerciciosBichinhos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heranca_polimorfismo/heranca_polimorfismo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica_algoritmo/exerciciosBichinhos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica_algoritmo/logica_algoritmo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Loja.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Loja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/PedidoExpress.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/PedidoExpress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/PedidoSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/PedidoSimples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/heranca_polimorfismo/src/exercicio/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logica_algoritmo/src/exercicio/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/logica_algoritmo/src/exercicio/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logica_algoritmo/src/exercicio/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/logica_algoritmo/src/exercicio/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/175cb08d16da36310f37ff9f207bf379e9969727" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf68a19c45d58b8403a4eeb51030d6d94a748003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3c9161aa2119df576102a08582175c449ad9111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d49a18641185e23187237d12f26c38cf87bf16c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5c678f983bf7dce63aec133010b73b4507bdba2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daa7572985e54419588912f6c46dc472e4382f1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/7/175cb08d16da36310f37ff9f207bf379e9969727" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bf68a19c45d58b8403a4eeb51030d6d94a748003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/3/c3c9161aa2119df576102a08582175c449ad9111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/4/d49a18641185e23187237d12f26c38cf87bf16c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/5/d5c678f983bf7dce63aec133010b73b4507bdba2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/daa7572985e54419588912f6c46dc472e4382f1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +29,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -45,15 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/cnett/OneDrive/Área de Trabalho/dev/bichinhos/exercicios-bichinhos-ti/ex_classes_interfaces",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cnett\OneDrive\Área de Trabalho\dev\bichinhos\exercicios-bichinhos-ti\ex_classes_interfaces" />
+      <recent name="C:\Users\cnett\OneDrive\Área de Trabalho\dev\bichinhos\exercicios-bichinhos-ti\ex_heranca_polimorfismo" />
+      <recent name="C:\Users\cnett\OneDrive\Área de Trabalho\dev\bichinhos\exercicios-bichinhos-ti\ex_listas" />
+      <recent name="C:\Users\cnett\OneDrive\Área de Trabalho\dev\bichinhos\exercicios-bichinhos-ti\ex_logica_algoritmos" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.TesteEx11">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />

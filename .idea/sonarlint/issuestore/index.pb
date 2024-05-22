@@ -1,17 +1,29 @@
 
 S
 #ex_classes_interfaces/src/Main.java,8\d\8d5fb52766eeacd25edb63a98350f2f43828bc58
-N
-exercicio_listas/src/Main.java,c\3\c3c9161aa2119df576102a08582175c449ad9111
-]
--exercicio_listas/src/exercicio/Principal.java,b\f\bf68a19c45d58b8403a4eeb51030d6d94a748003
-N
-logica_algoritmo/src/Main.java,1\7\175cb08d16da36310f37ff9f207bf379e9969727
-Y
-)logica_algoritmo/src/exercicio/Teste.java,d\5\d5c678f983bf7dce63aec133010b73b4507bdba2
-R
-"heranca_polimorfismo/src/Main.java,d\a\daa7572985e54419588912f6c46dc472e4382f1b
-a
-1heranca_polimorfismo/src/exercicio/Principal.java,d\4\d49a18641185e23187237d12f26c38cf87bf16c3
 ]
 -ex_classes_interfaces/src/ex11/TesteEx11.java,b\d\bd69741475d65073848463dfecbf67544cd684aa
+V
+&ex_listas/src/exercicio/Principal.java,5\e\5e479f01446c2bf37b4a971cd2db9d806bb22ee7
+d
+4ex_heranca_polimorfismo/src/exercicio/Principal.java,a\5\a5342d5bf7008601d56011d02f1130a955e776e7
+]
+-ex_logica_algoritmos/src/exercicio/Teste.java,c\c\ccb133ce416f8132166c9fb9fc6cc791fd74ddea
+G
+ex_listas/src/Main.java,e\8\e82f0e8cc5d26618f484490f2b4de0236de77d5e
+R
+"ex_logica_algoritmos/src/Main.java,0\0\005e752052c9ffcdcfe8cdd7fed80f0caeb1968f
+U
+%ex_heranca_polimorfismo/src/Main.java,f\d\fd7f4fc9b130e718d4e363a899e922039eedb4c0
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+N
+ex_logica_algoritmos/README.md,e\f\ef5ae7f78dbeb0a82bdd51f5ed44a5eaafeadf53
+a
+1ex_logica_algoritmos/src/exercicio/QuickSort.java,2\9\29e8fe727963d847bab49059e78821ace9c23f36
+C
+ex_listas/README.md,c\3\c3e04872ec5a7063274922dd737b536f8336f581
+Q
+!ex_heranca_polimorfismo/README.md,a\9\a91e53d2b77751b6b31418eb0e51e38028d45fb5
+O
+ex_classes_interfaces/README.md,0\5\05dc91c473e6f69558b679bf652edb7f8756afa0

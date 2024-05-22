@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Exercicios Bichinhos da TI</h1>
+<h1 style="text-align:center">Exercicios Bichinhos da TI</h1>
 
-<p align="center">
+<p style="text-align:center">
   <img src="https://avatars.githubusercontent.com/u/154103564?s=200&v=4" alt="Descrição da Imagem">
 </p>
 
